@@ -5,9 +5,8 @@ import numpy as np
 
 cap = cv2.VideoCapture('carPark.mp4')
 width, height = 103, 43
-with open('polygons', 'rb') as f:
+with open('CarParkPos', 'rb') as f:
     posList = pickle.load(f)
-
 
 def empty(a):
     pass
