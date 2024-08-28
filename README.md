@@ -43,7 +43,7 @@ The *main.py* script analyzes a video feed to detect whether each parking space 
 ### Prerequisites
 
 - *Python 3.x*: Make sure Python is installed on your machine.
-- *OpenCV and NumPy*: Install the required libraries via pip:
+- *OpenCV and NumPy*: Install the required libraries via pip.
 
 
 ### Setup
