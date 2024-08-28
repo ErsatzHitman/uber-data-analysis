@@ -1,6 +1,6 @@
 # 🚗 Car Parking Space Detection System
 
-This is an *automated parking space detection system* built using *OpenCV, **cvzone, **NumPy, and **Python*. It identifies free and occupied parking spaces in a video feed and provides real-time updates on parking availability. The system is interactive and allows users to define parking spaces on an image of a parking lot, which are then tracked to detect vehicle occupancy.
+This is an *automated parking space detection system* built using **OpenCV, **cvzone, **NumPy, and **Python*. It identifies free and occupied parking spaces in a video feed and provides real-time updates on parking availability. The system is interactive and allows users to define parking spaces on an image of a parking lot, which are then tracked to detect vehicle occupancy.
 
 ## 🛠 Tech Stack
 
@@ -45,5 +45,33 @@ The *main.py* script analyzes a video feed to detect whether each parking space 
 - *Python 3.x*: Make sure Python is installed on your machine.
 - *OpenCV and NumPy*: Install the required libraries via pip:
 
-```bash
-pip install opencv-python opencv-python-headless numpy cvzone
+
+### Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ErsatzHitman/car-parking-detection-system.git
+   cd car-parking-detection-system
+2. **Run the Parking Space Picker file**:
+
+    ```bash
+    python ParkingSpacePicker.py
+    ```
+3. **Run Real-Time Detection**:
+   ```bash
+    python main.py
+    ```
+Now watch the real-time detection of parking spaces in the video feed.
+
+## 🎥 Demo
+
+Check out the video demo [here](https://drive.google.com/file/d/1ORBdzU42iiSwNFZTy0C6A8OnaHUJIrSx/view?usp=sharing).
+
+## 📸 Screenshots
+
+Here are a few screenshots of the application:
+
+![Parking Space Selection](https://github.com/user-attachments/assets/24bc8701-a5ac-43d2-8d6b-1f9ba3f15591)
+![Real-Time Detection](https://github.com/user-attachments/assets/0111d751-323a-4e5d-bcf1-3a007e2c7867)
+
+
