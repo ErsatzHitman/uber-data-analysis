@@ -49,8 +49,7 @@ The **main.py** script analyzes a video feed to detect whether each parking spac
     ```
 Now watch the real-time detection of parking spaces in the video feed.
 
-## 🎥 Demo
-Check out the video demo [here](https://drive.google.com/file/d/1ORBdzU42iiSwNFZTy0C6A8OnaHUJIrSx/view?usp=sharing).
+
 
 ## 📸 Screenshots
 Here are a few screenshots of the application:
