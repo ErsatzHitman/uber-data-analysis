@@ -53,5 +53,4 @@ Now watch the real-time detection of parking spaces in the video feed.
 
 ## 📸 Screenshots
 Here are a few screenshots of the application:
-![Parking Space Selection](https://github.com/user-attachments/assets/24bc8701-a5ac-43d2-8d6b-1f9ba3f15591)
-![Real-Time Detection](https://github.com/user-attachments/assets/0111d751-323a-4e5d-bcf1-3a007e2c7867)
+![image](https://github.com/user-attachments/assets/23cbbf92-1a2d-460a-be12-4c768efc1f84)
